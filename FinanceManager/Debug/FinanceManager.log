@@ -1,0 +1,22 @@
+﻿  Bill.cpp
+  UUDate.cpp
+  Income.cpp
+  Main.cpp
+  MainMenu.cpp
+  Status.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\numeric(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\numeric(36): note: see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  c:\users\aodhan\source\repos\financemanager\status.cpp(29): note: see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  Generating Code...
+  FinanceManager.vcxproj -> C:\Users\aodhan\source\repos\FinanceManager\Debug\FinanceManager.exe

@@ -1,0 +1,5 @@
+$600	Date: 23/03/2019	Description: Electricity
+$40	Date: 20/04/2020	Description: Dog Groomer
+$70000	Date: 28/11/2019	Description: Rates
+$100000	Date: 29/19/2019	Description: Morgage
+$300	Date: 29/06/2019	Description: Rates

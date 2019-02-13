@@ -1,0 +1,6 @@
+$5000	Date: 29/11/1998	Description: dog
+$50	Date: 29/11/2019	Description: wages
+$6000	Date: 28/11/19989	Description: Wages
+$50.5	Date: 28/11/2019	Description: test
+$600	Date: 28/11/2019	Description: bday Money
+$400	Date: 26/11/2019	Description: Wages
