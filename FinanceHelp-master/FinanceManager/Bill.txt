@@ -1,0 +1,3 @@
+$500	Date: 24/11/2019	Description: Rates
+$200	Date: 01/01/2020	Description: Gas
+$20	Date: 01/01/2019	Description: Medicine
